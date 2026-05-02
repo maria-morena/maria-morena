@@ -10,7 +10,7 @@
 ### Sobre mim 💜 
 
 Estudo **Análise e Desenvolvimento de Sistemas** no UniCeub (Brasília).
-Tenho projetos com foco em **front-end** e banco de dados, e ainda estou descobrindo onde quero me especializar — e isso é ótimo! 🚀
+Tenho projetos com foco em **front-end** e banco de dados, e ainda estou descobrindo onde quero me especializar.
 
 Você pode ver meu trabalho prático nos repositórios abaixo — todos são projetos reais que desenvolvi durante o curso.
 
