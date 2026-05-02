@@ -1,6 +1,6 @@
 <div align="center">
 
-# oi, eu sou a Maria Morena ✨
+# Oie, eu sou a Maria Morena ✨
 *estudante de ADS · construindo meu caminho no dev* 🌸
 
 </div>
