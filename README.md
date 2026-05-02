@@ -23,7 +23,7 @@ Você pode ver meu trabalho prático nos repositórios abaixo — todos são pro
 ![HTML5](https://img.shields.io/badge/HTML5-F48FB1?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-CE93D8?style=for-the-badge&logo=css3&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-80DEEA?style=for-the-badge&logo=mysql&logoColor=336677)
-![MongoDB](https://img.shields.io/badge/MongoDB-A5D6A7?style=for-the-badge&logo=mongodb&logoColor=2d6a4f)
+
 
 ---
 
