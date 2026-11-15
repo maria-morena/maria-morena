@@ -27,7 +27,7 @@
 
 ---
 
-### sobre
+### Sobre
 
 Sou estudante de ADS e hoje meu foco é usar IA generativa para automatizar processos de ponta a ponta: mapeio o processo, meço quanto tempo ele leva, construo a automação e meço o ganho.
 
@@ -39,7 +39,7 @@ Gosto de projetos que resolvem um problema pequeno e real, mesmo que simples —
 
 ---
 
-### tecnologias
+### Tecnologias
 
 <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,postgres,py,docker,githubactions,git,github" />
 
@@ -56,7 +56,7 @@ Gosto de projetos que resolvem um problema pequeno e real, mesmo que simples —
 
 ---
 
-### projetos com ia
+### Projetos com ia
 
 | | projeto | o que faz | resultado | stack |
 |---|---|---|---|---|
@@ -75,7 +75,7 @@ Gosto de projetos que resolvem um problema pequeno e real, mesmo que simples —
 
 ---
 
-### objetivos
+### Objetivos
 
 - [x] aprender lógica de programação e fundamentos de front-end
 - [x] construir projetos com banco de dados do zero (StyleSync, Sistema de Gestão Hospitalar, Controle de Despesas)
@@ -90,7 +90,7 @@ Gosto de projetos que resolvem um problema pequeno e real, mesmo que simples —
 
 ---
 
-### contato
+### Contato
 
 <div align="center">
 
